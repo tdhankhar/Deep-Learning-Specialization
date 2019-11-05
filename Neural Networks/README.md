@@ -1,1 +1,1 @@
-# First course of the specialization.
+# First Course of the Specialization.
